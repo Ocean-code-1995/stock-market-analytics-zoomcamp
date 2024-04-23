@@ -1,0 +1,15 @@
+pandas
+pandas_datareader
+numpy
+
+matplotlib
+seaborn
+plotly
+
+scikit-learn
+
+requests
+beautifulsoup4
+
+yfinance
+fear-greed-index
