@@ -13,3 +13,5 @@ beautifulsoup4
 
 yfinance
 fear-greed-index
+
+tqdm
