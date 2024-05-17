@@ -2,6 +2,9 @@ pandas
 pandas_datareader
 numpy
 
+fastparquet
+pyarrow
+
 matplotlib
 seaborn
 plotly
@@ -15,3 +18,5 @@ yfinance
 fear-greed-index
 
 tqdm
+
+gdown
